@@ -5,6 +5,7 @@ This project attempts to indentify changes in user behavior on Twitter after int
 
 ## Figures
 
+
 Gabon Internet Traffic Aggregated, Entire Time
 ![Plot1](/Figures/Gabon_TrafficAggregated_EntireTime.png)
 
@@ -13,6 +14,8 @@ Gabon Internet Traffic Aggregated, Before Aug 30, 2016
 
 Gabon Internet Traffic Aggregated, After Aug 30, 2016
 ![Plot3](/Figures/Gabon_TrafficAggregated_After08302016.png)
+
+
 
 ### Censored Traffic
 
@@ -33,6 +36,7 @@ Gabon Censored Tweet per User
 
 Gabon Censored Censored Users
 ![Plot9](/Figures/Gabon_censored_users.png)
+
 
 
 ### Uncensored Traffic
