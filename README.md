@@ -21,7 +21,7 @@ This project attempts to indentify changes in user behavior on Twitter after int
 
 
 
-### Censored Traffic
+## Censored Traffic
 
 * Gabon Censored Tweets
 
@@ -54,7 +54,7 @@ This project attempts to indentify changes in user behavior on Twitter after int
 
 
 
-### Uncensored Traffic
+## Uncensored Traffic
 
 * Gabon Normal Tweets
 
